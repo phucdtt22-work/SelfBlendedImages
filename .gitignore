@@ -7,4 +7,6 @@
 *.txt
 *.h5
 
+# Large dataset files
+LAV_DF_Small/
 
